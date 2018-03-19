@@ -3,7 +3,7 @@ Send multiple asynchronous HTTP Requests to the same domain in Livecode Communit
 
 Just click either one of the 2 buttons, look at global variable array HTTPDownload
 
-Trigger Dequential or asynchronous downloads.
+Trigger Sequential or Asynchronous downloads.
 
 Whole thing works around a scheduler.
 
