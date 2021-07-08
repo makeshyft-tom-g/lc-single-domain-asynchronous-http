@@ -1,7 +1,9 @@
 # lc-single-domain-asynchronous-http
-Send multiple asynchronous HTTP Requests to the same domain in Livecode Community
+UPDATE: Turns out this is only a hack to let your interface unblock while doing a lot of requests, but it does not actually do the (same domain) calls in an asynced way.  The calls still happen in sequence.
 
-Just click either one of the 2 buttons, look at global variable array HTTPDownload
+Send multiple (psuedo-asynchronous) HTTP Requests to the same domain in Livecode Community.
+
+Just click either one of the 2 buttons, look at global variable array 
 
 Trigger Sequential or Asynchronous downloads.
 
